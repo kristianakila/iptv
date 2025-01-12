@@ -1,0 +1,51 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Каналы от Dmitry-tv",D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:-1 group-title="Каналы от Dmitry-tv",Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Матч!
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT-1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
+#EXTINF:-1 group-title="РАДИО",Вести ФМ
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
+#EXTINF:-1 group-title="РАДИО",Маяк
+http://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 group-title="РАДИО",Радио России
+http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps

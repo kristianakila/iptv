@@ -1,0 +1,23 @@
+﻿#EXTM3U
+#EXTINF:-1,Калининградское время (MSK-1)
+http://dmi3y-tv.ru/iptv/DVB-T2/CH-1.m3u
+#EXTINF:-1,Московское время (MSK+0)
+http://dmi3y-tv.ru/iptv/DVB-T2/CH_0.m3u
+#EXTINF:-1,Самарское время (MSK+1)
+http://dmi3y-tv.ru/iptv/DVB-T2/CH_1.m3u
+#EXTINF:-1,Екатеринбургское время (MSK+2)
+http://dmi3y-tv.ru/iptv/DVB-T2/CH_2.m3u
+#EXTINF:-1,Омское время (MSK+3)
+http://dmi3y-tv.ru/iptv/DVB-T2/CH_3.m3u
+#EXTINF:-1,Красноярское время (MSK+4)
+http://dmi3y-tv.ru/iptv/DVB-T2/CH_4.m3u
+#EXTINF:-1,Иркутское время (MSK+5)
+http://dmi3y-tv.ru/iptv/DVB-T2/CH_5.m3u
+#EXTINF:-1,Якутское время (MSK+6)
+http://dmi3y-tv.ru/iptv/DVB-T2/CH_6.m3u
+#EXTINF:-1,Владивостокское время (MSK+7)
+http://dmi3y-tv.ru/iptv/DVB-T2/CH_7.m3u
+#EXTINF:-1,Сахалинское время (MSK+8)
+http://dmi3y-tv.ru/iptv/DVB-T2/CH_8.m3u
+#EXTINF:-1,Камчатское время (MSK+9)
+http://dmi3y-tv.ru/iptv/DVB-T2/CH_9.m3u

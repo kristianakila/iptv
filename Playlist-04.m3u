@@ -1,0 +1,39 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Каналы от Dmitry-tv",D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:-1 group-title="Каналы от Dmitry-tv",Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 1 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 1 HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1HD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 2 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 2 HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2HD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 3 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 3 HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3HD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 Интернет (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INT.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 Интернет HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Первый информационный (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNY.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Первый информационный HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ HD720 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_CTBHD720.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",ОНТ HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_OHTHD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
